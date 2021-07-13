@@ -1,7 +1,7 @@
 
 > Diese Seite bei [https://dlpl-mb.github.io/p-test1/](https://dlpl-mb.github.io/p-test1/) öffnen
 
-## Peter Walchshofer
+## Walchshofer Peter
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
